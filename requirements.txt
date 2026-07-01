@@ -1,0 +1,14 @@
+# Interface gráfica
+customtkinter>=5.2.0
+
+# Download de vídeos
+yt-dlp>=2024.1.0
+
+# Transcrição de áudio (IA)
+openai-whisper>=20231117
+
+# Requisições HTTP (comunicação com Ollama / APIs de IA)
+requests>=2.31.0
+
+# Edição e composição de vídeo
+moviepy>=2.0.0

@@ -1,0 +1,18 @@
+{
+    "VIRAL": {
+        "name": "O Viral (Shorts)",
+        "prompt": "Foco em ganchos rápidos, polêmicas, frases de impacto e momentos de alta energia para Shorts do YouTube."
+    },
+    "STORYTELLER": {
+        "name": "O Storyteller (Cortes)",
+        "prompt": "Foco em histórias completas, causos, experiências de vida e narrativas com início, meio e fim."
+    },
+    "ZEN": {
+        "name": "O Motivacional (Zen)",
+        "prompt": "Foco em lições de vida, meditação, reflexões profundas, espiritualidade e frases de sabedoria."
+    },
+    "ANALYST": {
+        "name": "O Analista (Inteligente)",
+        "prompt": "Foco em explicações técnicas, conceitos complexos simplificados, insights inteligentes e momentos de aprendizado."
+    }
+}

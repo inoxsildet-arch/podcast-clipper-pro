@@ -1,0 +1,42 @@
+# ==== Configurações e dados pessoais/sensíveis ====
+app_settings.json
+custom_rules.json
+
+# ==== Ambiente Python ====
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# ==== Pastas geradas em tempo de execução ====
+temp/
+outputs/
+*.mp4
+*.mkv
+*.mov
+*.wav
+*.m4a
+ai_raw_response.json
+*.log
+
+# ==== Modelos e cache baixados automaticamente ====
+.cache/
+*.pt
+*.bin
+
+# ==== Editor / IDE ====
+.vscode/
+.idea/
+*.swp
+
+# ==== Sistema Operacional ====
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ==== Variáveis de ambiente ====
+.env
